@@ -1,8 +1,8 @@
 body {
   background-color: rgb(255, 242, 240);
-  font-family: https://fonts.googleapis.com/css?family=NotoSans;
+  font: NotoSans-Regular;
 }
 
 h1 {
-  font-family: https://fonts.googleapis.com/css?family=NotoSans;
+  font: NotoSans-Regular;
 }
