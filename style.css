@@ -8,3 +8,10 @@ h1 {
   text-align: center;
   font-family: Tahoma, sans-serif;
 }
+
+table, td {
+  border: 1px, solid black;
+}
+th {
+  color: rgb(235, 64, 52);
+}
