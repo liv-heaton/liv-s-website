@@ -1,10 +1,10 @@
 body {
   background-color: rgb(255, 242, 240);
-  font-family: Monaco, Monospace;
+  font-family: Tahoma, sans-serif;
   padding: 20;
 }
 
 h1 {
   color: rgb(51, 0, 0);
-  font-family: Monaco, Monospace;
+  font-family: Tahoma, sans-serif;
 }
