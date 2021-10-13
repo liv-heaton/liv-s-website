@@ -1,10 +1,9 @@
 body {
   background-color: rgb(255, 242, 240);
-  font-family: Monospace;
+  font-family: "Monaco", Monospace;
   padding: 20;
 }
 
 h1 {
-  font-family: Monospace;
-  font: Monaco;
+  font-family: "Monaco", Monospace;
 }
